@@ -1,0 +1,7 @@
+numpy>= 1.14.0
+pandas>=0.22.0
+pytest>=3.6.1
+twython>=3.7.0
+scikit-learn>=0.19.1
+nltk>=3.2.5
+tweepy>=3.6.0

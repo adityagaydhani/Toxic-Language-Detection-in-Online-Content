@@ -1,0 +1,10 @@
+from os.path import abspath
+EXTERNAL_DATA_1 = abspath("../../data/external/data_external.csv")
+EXTERNAL_DATA_2 = abspath("../../data/external/data_external_2.csv")
+INTERIM_DATA = abspath("../../data/interim/data_interim.csv")
+RAW_DATA = abspath("../../data/raw/data_original.csv")
+TRAIN_DATA = abspath("../../data/final/train.csv")
+TEST_DATA = abspath("../../data/final/test.csv")
+FINAL_VECT = abspath("../../models/final/final_count_vect.pkl")
+FINAL_TFIDF = abspath("../../models/final/final_tf_transformer.pkl")
+FINAL_MODEL = abspath("../../models/final/final_model.pkl")
