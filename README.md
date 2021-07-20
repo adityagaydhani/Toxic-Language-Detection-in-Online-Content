@@ -1,6 +1,9 @@
 # Toxic-Language-Detection-in-Online-Content
 This project attempts to detect and classify toxic content on Twitter. I have used Machine Learning and Natural Language Processing techniques for this purpose. The final classifier is able to classify a tweet on Twitter into three classes -- Hate Speech, Offensive Language and Clean Speech -- with 95.6% accuracy.
 
+## 2021 Update
+This repository is no longer being maintained.
+
 ## Installation
 ### Add the src directory to `$PYTHONPATH`
 
